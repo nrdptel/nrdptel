@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="readme-banner-dark@2x.png">
-  <source media="(prefers-color-scheme: light)" srcset="readme-banner-light@2x.png">
-  <img alt="FusionSpace · Tolerances tight. Ambitions loose." src="readme-banner-dark@2x.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="readme-banner@2x-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="readme-banner@2x-light.png">
+  <img alt="FusionSpace · Tolerances tight. Ambitions loose." src="readme-banner@2x-dark.png" width="100%">
 </picture>
 
 ### Hi, I'm Neer.
