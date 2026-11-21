@@ -6,7 +6,7 @@
 
 ### Hi, I'm Neer.
 
-I'm a software engineer in Auburn, Alabama. Under the name [FusionSpace](https://fusionspace.co) I make free, open-source
+I'm a software engineer. Under the name [FusionSpace](https://fusionspace.co) I make free, open-source
 software for hobby and high-power rockets: [HPR Sim](https://hpr.fusionspace.co/the-simulator.html), a flight simulator,
 and the suite I'm building around it.
 
